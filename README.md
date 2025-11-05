@@ -1,2 +1,6 @@
-Hi, this is my first commit
-Hi again!
+# Learning Git
+
+Here's our todo:
+- [X] Create a new file
+- [X] Make our first commit
+- [ ]Fix this tpyo
